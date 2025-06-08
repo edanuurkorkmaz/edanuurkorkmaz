@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Edanur Korkmaz and I'm a Junior FrontEnd Developer, from Turkiye.</h2>
+<h2 align="left">Hi 👋! My name is Edanur Korkmaz, and I'm a Junior Front-End Developer, from Turkiye.</h2>
 
 ###
 
