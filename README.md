@@ -2,12 +2,12 @@ Hi there! 👋 I'm Edanur
 
 ---
 
-## 🇹🇷 TR - Hakkımda  
+## TR - Hakkımda  
 Merhaba! İstanbul'da yaşayan bir **frontend geliştiricisiyim**. Modern web teknolojileriyle kullanıcı dostu, temiz ve işlevsel arayüzler geliştirmek en büyük motivasyonum. Yeni teknolojiler öğrenmekten, tasarım ve kullanıcı deneyimini iyileştiren detaylarla uğraşmaktan keyif alıyorum. Üzerinde emek verdiğim projeleri seninle paylaşmak için buradayım. Hoş geldin!  
 
 ---
 
-## 🇬🇧 EN - About Me  
+## EN - About Me  
 Hello! I'm a **frontend developer** living in Istanbul. My biggest motivation is building user-friendly, clean, and functional interfaces with modern web technologies. I enjoy learning new tools, working on details that improve design & user experience, and producing creative solutions. I'm here to share the projects I've put effort into with you. Welcome!  
 
 ## 🛠️ Tech Stack  
