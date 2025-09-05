@@ -1,65 +1,30 @@
-# Hi, I'm Edanur 👋 | Merhaba, Ben Edanur 👋  
-
-🎯 Junior Frontend Developer | 🌍 Based in Istanbul | 💻 Passionate about web development  
+Hi there! 👋 I'm Edanur  
 
 ---
 
-## 🇬🇧 English Version  
-
-### 🚀 About Me  
-- 🎓 Graduated from **Istanbul Aydın University – Computer Programming (Full Scholarship, English)**  
-- 📚 Recently completed **Acunmedya Academy Frontend Development Program**  
-- 💡 Interested in **React, Next.js, Tailwind CSS, and modern web technologies**  
-- 🎮 Love building projects, playing games, and dancing in my free time  
-
-### 🛠️ Tech Stack  
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS  
-- **Tools & Platforms:** Git, GitHub, Vercel, Strapi, Figma  
-
-### 📌 Featured Projects  
-- 📒 **Note Taking App** – React + LocalStorage (archive & search features)  
-- 🛒 **E-Commerce Dashboard** – Next.js + Strapi + Tailwind (real-time analytics)  
-- 📂 **Task Management App** – React + Tailwind (kanban & list views)  
-
-➡️ Check out more projects in my [repositories](https://github.com/edanuurkorkmaz)!  
+## 🇹🇷 TR - Hakkımda  
+Merhaba! İstanbul'da yaşayan bir **frontend geliştiricisiyim**. Modern web teknolojileriyle kullanıcı dostu, temiz ve işlevsel arayüzler geliştirmek en büyük motivasyonum. Yeni teknolojiler öğrenmekten, tasarım ve kullanıcı deneyimini iyileştiren detaylarla uğraşmaktan keyif alıyorum. Üzerinde emek verdiğim projeleri seninle paylaşmak için buradayım. Hoş geldin!  
 
 ---
 
-## 🇹🇷 Türkçe Versiyon  
+## 🇬🇧 EN - About Me  
+Hello! I'm a **frontend developer** living in Istanbul. My biggest motivation is building user-friendly, clean, and functional interfaces with modern web technologies. I enjoy learning new tools, working on details that improve design & user experience, and producing creative solutions. I'm here to share the projects I've put effort into with you. Welcome!  
 
-### 🚀 Hakkımda  
-- 🎓 **İstanbul Aydın Üniversitesi – Bilgisayar Programcılığı (Tam Burslu, İngilizce) Mezunu**  
-- 📚 **Acunmedya Akademi Frontend Development Programı** mezunu  
-- 💡 **React, Next.js, Tailwind CSS ve modern web teknolojileri** ile ilgileniyorum  
-- 🎮 Boş zamanlarımda projeler geliştiriyor, oyun oynuyor ve dans ediyorum  
+## 🛠️ Tech Stack  
 
-### 🛠️ Teknoloji Stack’im  
-- **Diller:** JavaScript, HTML, CSS  
-- **Framework & Kütüphaneler:** React, Next.js, Tailwind CSS  
-- **Araçlar & Platformlar:** Git, GitHub, Vercel, Strapi, Figma  
-
-### 📌 Öne Çıkan Projeler  
-- 📒 **Not Tutma Uygulaması** – React + LocalStorage (arşiv & arama özellikleri)  
-- 🛒 **E-Ticaret Dashboard** – Next.js + Strapi + Tailwind (gerçek zamanlı analiz)  
-- 📂 **Görev Yönetim Uygulaması** – React + Tailwind (kanban & liste görünümleri)  
-
-➡️ Daha fazla proje için [repositorylerime](https://github.com/edanuurkorkmaz) göz atabilirsin!  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
-![Edanur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edanuurkorkmaz&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edanuurkorkmaz&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me | Benimle İletişime Geç  
+## 🌐 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/froosch/)  
-- [Portfolio Website](https://your-portfolio-link.com)  
+- [GitHub](https://github.com/edanuurkorkmaz)  
 - 📧 edanuurkorkmaz@gmail.com  
-
----
-
-✨ *"Keep building, keep learning, and never stop growing."*  
-✨ *"Üretmeye, öğrenmeye ve gelişmeye asla ara verme."*  
